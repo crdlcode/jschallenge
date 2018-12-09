@@ -1,0 +1,22 @@
+body {
+    font-size: 2em;
+    margin: 20px;
+    padding: 10px;
+}
+
+input {
+    font-size: 1em;
+}
+
+#tax {
+    color: blue;
+}
+
+#tip {
+    color: green;
+}
+
+#total {
+    color: red;
+}
+
